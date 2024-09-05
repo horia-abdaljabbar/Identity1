@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\migrations\\20240905153054_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\migrations\\20240905153054_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|c:\\users\\hemo king\\desktop\\full_stack\\backend\\mvc\\identity1_new\\identity1_new\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29BB196-87A0-41D1-87EB-5404EFAB408B}|Identity1_new\\Identity1_new.csproj|solutionrelative:identity1_new\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Identity1_new\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:28:30.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "Identity1_new\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "Identity1_new\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T17:18:36.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Models\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Identity1_new\\Models\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:15:57.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Identity1_new\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:33:28.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "Identity1_new\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "Identity1_new\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T15:39:59.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Models\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Models\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Models\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "Identity1_new\\Models\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:34:34.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Identity1_new\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:33:14.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240905153054_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Migrations\\20240905153054_initial.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Migrations\\20240905153054_initial.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Migrations\\20240905153054_initial.cs",
+              "RelativeToolTip": "Identity1_new\\Migrations\\20240905153054_initial.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:30:54.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity1_new\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\appsettings.json",
+              "RelativeToolTip": "Identity1_new\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T15:30:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Program.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Program.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Program.cs",
+              "RelativeToolTip": "Identity1_new\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:30:03.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Identity1_new\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hemo King\\Desktop\\Full_Stack\\backEnd\\MVC\\Identity1_new\\Identity1_new\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Identity1_new\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:28:55.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
